@@ -4,7 +4,7 @@ class Product {
 
     public int product(int x, int y) {
         return x ;
-    };
+    }
 
     public int product(int x, int y, int z) {
         return x ;
